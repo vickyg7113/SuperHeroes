@@ -1,6 +1,5 @@
 <html>
 <head>
-<title text-align="center">Rockstars</title>
   <style>
     .a{
     display:block;
