@@ -4,7 +4,8 @@
   <style>
     .a{
     border-radius:50%;
-    text-align:center;
+    margin-left:auto;
+    margin-right:auto;
     }
     </style>
 </head>
