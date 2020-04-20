@@ -3,6 +3,7 @@
 <title>Rockstars</title>
   <style>
     .a{
+    display:block;
     border-radius:50%;
     margin-left:auto;
     margin-right:auto;
