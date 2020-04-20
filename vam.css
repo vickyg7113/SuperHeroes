@@ -5,6 +5,11 @@
     margin-left:auto;
     margin-right:auto;
   }
-body{
-    background-color:orange;
+.b{
+    background-color:blue;
+    color:white;
+    border-radius:2px;
+    }
+.b:hover{
+    background-color:lime;
     }
