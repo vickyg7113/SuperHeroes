@@ -5,7 +5,6 @@
     </head>
   <body>
     <div >
-      <img clrc="IMG-20200109-WA0023.jpg" width="100px" height="100px">
       <p>Name:Ramana<br>Branch:ECE<br>Nick name:Loverboy</p>
       </div>
     </body>
