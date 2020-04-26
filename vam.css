@@ -4,7 +4,11 @@ body{
  color:white;
  }
 .header{
- 
+ background-color:#c71585;
+  height:100px;
+  margin:10px;
+  border-radius:3px;
+ }
  
   
     
