@@ -3,9 +3,13 @@
   <link rel="stylesheet" type="text/css" href="vam.css">
 </head>
 <body>
-  <div class="b">
-<img class="a" src="IMG-20200109-WA0023.jpg" width="100px" height="200px">
-    <p>Name:Ramana<br>Branch:ECE<br>Nick name:Lover </p>
+  <div class="header">
     </div>
+ <div id="navbar">
+   </div>
+  <div class="main">
+   </div>
+  <div id="footer">
+   </div>
 </body>
 </html>
