@@ -1,5 +1,6 @@
 body{
- background-image:url('download1.jpeg');
+ background-image:url('download1.jpeg') no-repeat;
+ background-size:cover;
  color:white;
  }
   
